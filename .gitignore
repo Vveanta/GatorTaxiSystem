@@ -1,0 +1,46 @@
+Last login: Mon Jan 22 15:45:16 on ttys002
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Vveantas-Mac:~ vedanshmaheshwari$ cd /Users/vedanshmaheshwari/Desktop/projects/Microorganism-Classification_using_GANs_and_Deep_learning 
+Vveantas-Mac:Microorganism-Classification_using_GANs_and_Deep_learning vedanshmaheshwari$ ls -a
+.			.git			codes
+..			.gitignore		micro-dataset.zip
+.DS_Store		README.md
+Vveantas-Mac:Microorganism-Classification_using_GANs_and_Deep_learning vedanshmaheshwari$ vim .gitignore
+
+
+
+
+
+
+
+
+
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+".gitignore" 26L, 400B
+
