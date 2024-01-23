@@ -29,11 +29,11 @@ make run input_file_name=input.txt
 
 ### Input Format
 The input file (e.g., "input.txt") should contain ride requests in the following format:
-&lt;RequestID&gt; &lt;PickupTime&gt; &lt;PickupLocation&gt; &lt;DropoffLocation&gt; &lt;RiderID&gt;
+- &lt;RequestID&gt; &lt;PickupTime&gt; &lt;PickupLocation&gt; &lt;DropoffLocation&gt; &lt;RiderID&gt;
 
 ### Output Format
 The output file ("output_file.txt") will include the details of ride allocations:
-&lt;RequestID&gt; &lt;DriverID&gt; &lt;PickupTime&gt; &lt;DropoffTime&gt;
+- &lt;RequestID&gt; &lt;DriverID&gt; &lt;PickupTime&gt; &lt;DropoffTime&gt;
 
 ## Contributors
 List the contributors or maintainers of the project here.
