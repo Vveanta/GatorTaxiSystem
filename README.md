@@ -12,17 +12,21 @@ The primary objectives of the Gator Taxi System are:
 
 ## Installation and Setup
 To set up the Gator Taxi System, follow these steps:
-1. Clone the repository from GitHub:
-git clone git@github.com:Vveanta/GatorTaxiSystem.git
-2. Navigate to the cloned directory:
-cd GatorTaxiSystem
+1. Clone the repository from GitHub
+2. Navigate to the cloned directory
 3. Ensure Python 3 is installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
+```zsh
+git clone git@github.com:Vveanta/GatorTaxiSystem.git
+cd GatorTaxiSystem
+```
 
 ## Running the Code
 To run the Gator Taxi System, execute the following steps:
 1. Open a terminal or command prompt in the GatorTaxiSystem directory.
 2. Use the Makefile to compile and run the program:
+```zsh
 make run input_file_name=input.txt
+```
 3. The system will process the input file and generate an output in "output_file.txt".
 
 ## Usage
@@ -35,11 +39,3 @@ The input file (e.g., "input.txt") should contain ride requests in the following
 The output file ("output_file.txt") will include the details of ride allocations:
 - &lt;RequestID&gt; &lt;DriverID&gt; &lt;PickupTime&gt; &lt;DropoffTime&gt;
 
-## Contributors
-List the contributors or maintainers of the project here.
-
-## License
-Specify the license under which this project is released (if applicable).
-
-## Contact
-Provide your contact information for queries or collaborations related to this project.
